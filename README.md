@@ -6,13 +6,13 @@
 
 🛠️ Competencias técnicas y habilidades interpersonales:
 
-✅ Amplio dominio de JavaScript | React | Node Package Manager (NPM)
-✅ Experiencia sólida en Redux | Node.js | Express | GitHub | Vite | Scrum | Auth0
-✅ Experto en PostgreSQL | Git | Styled Components CSS | Sass
-✅ Desarrollo Frontend y Full Stack | Dominio de HTML
-✅ Inglés (Nivel Intermedio) | Portugués (Nivel Avanzado) | Chino Mandarín (nivel Básico)
-✅ Resolución ágil de problemas | Motivación intrínseca | Adaptabilidad
-✅ Compromiso y alto rendimiento personal | Fluidez en Español Nativo
+-✅ Amplio dominio de JavaScript | React | Node Package Manager (NPM)
+-✅ Experiencia sólida en Redux | Node.js | Express | GitHub | Vite | Scrum | Auth0
+-✅ Experto en PostgreSQL | Git | Styled Components CSS | Sass
+-✅ Desarrollo Frontend y Full Stack | Dominio de HTML
+-✅ Inglés (Nivel Intermedio) | Portugués (Nivel Avanzado) | Chino Mandarín (nivel Básico)
+-✅ Resolución ágil de problemas | Motivación intrínseca | Adaptabilidad
+-✅ Compromiso y alto rendimiento personal | Fluidez en Español Nativo
 
 Mi enfoque integral me permite navegar con confianza tanto en el universo del front end como en el back end y la administración de bases de datos. Como profesional dinámico en esta industria, encuentro inspiración en aportar una perspectiva única y fresca.
 
