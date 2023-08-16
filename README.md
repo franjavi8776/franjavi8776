@@ -1,14 +1,26 @@
+👋Hola! ¡Saludos! Es un placer presentarme: soy Francisco Villarroel, un apasionado Desarrollador Full Stack con base en Cochabamba, Bolivia.
 
+🚀Inmerso en el emocionante universo tecnológico, estoy constantemente en la búsqueda de desafíos que fomenten mi crecimiento. Mi entusiasmo por sumergirme en entornos donde la creatividad se fusiona con el aprendizaje para dar vida a experiencias digitales excepcionales es inigualable.
 
-Siempre he sentido un profundo interés por el campo del desarrollo y la programación de la tecnología. Estoy convencido de que cada cosa tiene su momento, y este es el momento preciso para mí como individuo para sumergirme por completo en el apasionante mundo de la tecnología de la información.
+👨‍💻 Mi pasión por el desarrollo es mi firma personal. Con un profundo aprecio por lo visual, reconozco la importancia de la primera impresión en todo proyecto. La realidad es que, conscientemente o no, todos tendemos a juzgar por la apariencia inicial. Mi enfoque armoniza funcionalidad y estética. Siempre persigo ese toque artístico que cautiva y eleva la experiencia del usuario.
 
-Apasionado por el trabajo en equipo y dotado de habilidades de liderazgo innatas, mi enfoque es inspirar lo mejor en cada persona con la que colaboro. Mi compromiso con mi labor es absoluto, y me enorgullece dedicarme al máximo en todo lo que hago. Siempre estoy sediento de conocimiento y constantemente busco oportunidades para aprender y crecer en este dinámico campo.
+🛠️ Competencias técnicas y habilidades interpersonales:
 
-A lo largo de mi trayectoria en el ámbito de la tecnología de la información, he llevado a cabo proyectos tanto personales como para terceros. Mi versatilidad es evidente en mi capacidad para adaptarme a diferentes facetas del desarrollo web, ya sea en el frente (frontend) o en la parte trasera (backend).
+✅ Amplio dominio de JavaScript | React | Node Package Manager (NPM)
+✅ Experiencia sólida en Redux | Node.js | Express | GitHub | Vite | Scrum | Auth0
+✅ Experto en PostgreSQL | Git | Styled Components CSS | Sass
+✅ Desarrollo Frontend y Full Stack | Dominio de HTML
+✅ Inglés (Nivel Intermedio) | Portugués (Nivel Avanzado) | Chino Mandarín (nivel Básico)
+✅ Resolución ágil de problemas | Motivación intrínseca | Adaptabilidad
+✅ Compromiso y alto rendimiento personal | Fluidez en Español Nativo
 
-Estoy emocionado por lo que el futuro en la industria IT tiene reservado y estoy comprometido a contribuir de manera significativa a este emocionante viaje tecnológico. Siempre estoy abierto a nuevas oportunidades y desafíos que me permitan seguir creciendo como profesional en este apasionante campo.
+Mi enfoque integral me permite navegar con confianza tanto en el universo del front end como en el back end y la administración de bases de datos. Como profesional dinámico en esta industria, encuentro inspiración en aportar una perspectiva única y fresca.
 
-Tengo experiencia desarrollando con JAVASCRIPT, REACT, NODEJS, HTML5, CSS,TAILWIND, REACT NATIVE, EXPRESS, SEQUELIZE, MYSQL, PROGRESS, DOCKER.
+Si estás en búsqueda de un experto que combine responsabilidad con una inagotable energía creativa, siempre dispuesto a sobrepasar límites, ¡no dudes en contactarme! Estaré encantado de conectar contigo.
+
+📩 franjavi871976@gmail.com
+🦾 https://github.com/franjavi8776
+💼https://franjavi8776.github.io/portfolio
 <!--
 **franjavi8776/franjavi8776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
