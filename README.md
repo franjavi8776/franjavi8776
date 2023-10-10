@@ -19,8 +19,9 @@ Mi enfoque integral me permite navegar con confianza tanto en el universo del fr
 Si estás en búsqueda de un experto que combine responsabilidad con una inagotable energía creativa, siempre dispuesto a sobrepasar límites, ¡no dudes en contactarme! Estaré encantado de conectar contigo.
 
 📩 franjavi871976@gmail.com  
-🦾 https://github.com/franjavi8776  
+🦾 https://www.linkedin.com/in/francisco-villarroel-2945a1260  
 💼https://franjavi8776.github.io/portfolio  
+
 <!--
 **franjavi8776/franjavi8776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
